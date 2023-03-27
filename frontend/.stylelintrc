@@ -1,0 +1,9 @@
+{
+  "extends": "stylelint-config-standard",
+  "rules": {
+    "color-function-notation": "legacy",
+    "selector-class-pattern": null,
+    "block-no-empty": null,
+    "alpha-value-notation": ["percentage", { "exceptProperties": ["opacity", "color"] }]
+  }
+}
