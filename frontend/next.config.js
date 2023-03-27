@@ -4,6 +4,9 @@ const StylelintPlugin = require("stylelint-webpack-plugin");
 
 const nextConfig = {
   reactStrictMode: true,
+  compiler: {
+    styledComponents: true,
+  },
 
   // For stylelint
   webpack: (config, options) => {
