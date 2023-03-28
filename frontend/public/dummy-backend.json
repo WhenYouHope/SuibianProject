@@ -1,0 +1,21 @@
+{
+    "universities": [
+        {"id": 1, "name": "University of Cambridge", "ranking": {"QS": 2, "THE": 3}},
+        {"id": 2, "name": "University of Oxford", "ranking": {"QS": 4, "THE": 1}},
+        {"id": 3, "name": "Imperial College London", "ranking": {"QS": 6, "THE": 10}},
+        {"id": 4, "name": "University College London", "ranking": {"QS": 8, "THE": 22}},
+        {"id": 5, "name": "The University of Edinburgh", "ranking": {"QS": 15, "THE": 29}},
+        {"id": 6, "name": "The University of Manchester", "ranking": {"QS": 28, "THE": 54}},
+        {"id": 7, "name": "King's College London", "ranking": {"QS": 37, "THE": 35}},
+        {"id": 8, "name": "The London School of Economics and Political Science (LSE)", "ranking": {"QS": 56, "THE": 37}},
+        {"id": 9, "name": "University of Bristol", "ranking": {"QS": 61, "THE": 76}},
+        {"id": 10, "name": "The University of Warwick", "ranking": {"QS": 64, "THE": 104}},
+        {"id": 11, "name": "University of Southampton", "ranking": {"QS": 78, "THE": 108}},
+        {"id": 12, "name": "University of Glasgow", "ranking": {"QS": 81, "THE": 82}},
+        {"id": 13, "name": "University of Leeds", "ranking": {"QS": 86, "THE": 128}},
+        {"id": 14, "name": "University of Birmingham", "ranking": {"QS": 91, "THE": 108}},
+        {"id": 15, "name": "Durham University", "ranking": {"QS": 92, "THE": 198}},
+        {"id": 16, "name": "The University of Sheffield", "ranking": {"QS": 96, "THE": 114}},
+        {"id": 17, "name": "University of St Andrews", "ranking": {"QS": 96, "THE": "201-250"}}
+    ]
+}
